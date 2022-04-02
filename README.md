@@ -1,0 +1,5 @@
+This project, Game of Chance, is a game made with Java. The program begins by explaning the rules of the game to the user. It then asks the user how much they are willing to bet and whether they believe the sum of the dice being rolled will be odd or even. If the user guessed correctly, they win. If the user guesses incorrectly, they lose.
+
+This program is based on Chō-Han, a traditional Japanese gambling game using dice. Chō-Han originated from the bakuto, a group of itinerant gamblers and is still played today by their successors, the yakuza. Chō-Han is also featured in scenes within Japanese action films.
+
+As a result of the origins of the game, there are two features to note in the program. The first is that the program acts as the House. The second is that if the user inputs any other word than even or odd, the House automatically wins. 
